@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EventAppGDG.iml" filepath="$PROJECT_DIR$/EventAppGDG.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gdg_android.iml" filepath="$PROJECT_DIR$/gdg_android.iml" />
     </modules>
   </component>
 </project>
